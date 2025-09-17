@@ -1,2 +1,2 @@
-# Creando tu cuenta y tu primer repositorio 
-## 
+# Mi primer proyecto de prepa
+
