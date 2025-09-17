@@ -1,5 +1,5 @@
 # Mi primer proyecto de prepa
-Creando tu cuenta y tu primer repositorio
+## Creando tu cuenta y tu primer repositorio
 Sigue estos pasos cuidadosamente:
 Paso 1: Crea tu cuenta de GitHub
 1. Ve al sitio web: Abre tu navegador y visita GitHub.com.
@@ -76,4 +76,20 @@ para darle formato.
 • .gitignore: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear
 (ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio
 limpio.
-6. Entra a la carpeta del proye
+6. Entra a la carpeta del proyecto
+7. cd mi-primer-proyecto-prepa
+Ahora estás dentro de la carpeta local de tu repositorio.
+Conceptos clave que acabas de usar:
+• Repositorio (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub).
+• Rama (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu
+proyecto. En proyectos más grandes, se usan múltiples ramas para trabajar en paralelo.
+• Commit: Una "fotografía" de tus cambios en un momento dado, con un mensaje descriptivo.
+• Clonar (clone): Descargar una copia de un repositorio remoto a tu computadora.
+• Push: Enviar tus cambios confirmados desde tu repositorio local a GitHub.
+• Pull: Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando
+colabores).
+• README.md: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown
+para darle formato.
+• .gitignore: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear
+(ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio
+limpio.
