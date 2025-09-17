@@ -1,2 +1,3 @@
 # Mi primer proyecto de prepa
-## foto va en archivo readme y lo demas en instrucciones
+## Imagen
+! ("C:\Users\zefer\Downloads\WhatsApp Image 2025-09-17 at 15.06.42.jpeg")
